@@ -1,0 +1,57 @@
+{
+ "Colors": {
+  "Dark Mode": {
+   "Regular": { "$type": "color", "$value": "#FFFFFF" },
+   "Warning": { "$type": "color", "$value": "#FF7878" }
+  },
+  "Light Mode": {
+   "Regular": { "$type": "color", "$value": "#000000" },
+   "Warning": { "$type": "color", "$value": "#930000" }
+  }
+ },
+ "Typography": {
+  "Copy": {
+   "Bold": {
+    "color": { "$type": "color", "$value": "#FF3434" },
+    "text": {
+     "$type": "typography",
+     "$value": {
+      "fontFamily": "Times New Roman PS",
+      "fontSize": "15px",
+      "fontWeight": 700,
+      "letterSpacing": "0px",
+      "lineHeight": 0.0
+     }
+    }
+   },
+   "Regular": {
+    "color": { "$type": "color", "$value": "#00000000" },
+    "text": {
+     "$type": "typography",
+     "$value": {
+      "fontFamily": "Times New Roman PSMT",
+      "fontSize": "15px",
+      "fontWeight": 400,
+      "letterSpacing": "0px",
+      "lineHeight": 0.0
+     }
+    }
+   }
+  },
+  "Title": {
+   "H1": {
+    "color": { "$type": "color", "$value": "#00000000" },
+    "text": {
+     "$type": "typography",
+     "$value": {
+      "fontFamily": "Times New Roman PS",
+      "fontSize": "24px",
+      "fontWeight": 700,
+      "letterSpacing": "0px",
+      "lineHeight": 0.0
+     }
+    }
+   }
+  }
+ }
+}
